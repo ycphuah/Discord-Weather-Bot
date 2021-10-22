@@ -4,7 +4,7 @@ from datetime import datetime
 
 client = discord.Client()
 
-discordToken = 'NzU5MjQzNjU5NTg0NDcxMTAx.X26qwg.T-6uuf5Xz8JQd9LupgLBZF11qS0'
+discordToken = 'INSERT DISCORD TOKEN HERE'
 openWeatherToken = '1bef2e158f5cabc0d21fe7fd6efde2e3'
 
 @client.event
