@@ -4,8 +4,8 @@ from datetime import datetime
 
 client = discord.Client()
 
-discordToken = 'INSERT DISCORD TOKEN'
-openWeatherToken = '938a4504ad90fdaba43a6271038c7e47'
+discordToken = 'NzU5MjQzNjU5NTg0NDcxMTAx.X26qwg.T-6uuf5Xz8JQd9LupgLBZF11qS0'
+openWeatherToken = '1bef2e158f5cabc0d21fe7fd6efde2e3'
 
 @client.event
 async def on_ready():
